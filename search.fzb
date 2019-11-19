@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module fritzingVersion="0.9.3b.04.19.5c895d327c44a3114e5fcc9d8260daf0cbb52806" icon="Search.png" search="motor">
+    <title>Search</title>
+    <instances>
+        <instance moduleIdRef="RevEd_FRM050" modelIndex="6001" path="/home/aluno/Downloads/ARDUINO-2019/fritzing-0.9.3b.linux.AMD64/fritzing-parts/core/FRM050.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="145b5412a0ffbe91a876166139419e15" modelIndex="6002" path="/home/aluno/Downloads/ARDUINO-2019/fritzing-0.9.3b.linux.AMD64/fritzing-parts/core/BASIC_Stamp_2sx.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="Modkit Shield-v1a" modelIndex="6004" path="/home/aluno/Downloads/ARDUINO-2019/fritzing-0.9.3b.linux.AMD64/fritzing-parts/core/Modkit Shield-v1a.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="7d0bc366bcac9395c747f3a92e2ff843leg" modelIndex="6005" path="/home/aluno/Downloads/ARDUINO-2019/fritzing-0.9.3b.linux.AMD64/fritzing-parts/core/stepper_motor_bipolar.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="TB6612FNG Breakout v11" modelIndex="6006" path="/home/aluno/Downloads/ARDUINO-2019/fritzing-0.9.3b.linux.AMD64/fritzing-parts/core/Motor Driver 1A Dual TB6612FNG v11.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="IOIO-v15" modelIndex="6008" path="/home/aluno/Downloads/ARDUINO-2019/fritzing-0.9.3b.linux.AMD64/fritzing-parts/core/IOIO-v15.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="Arduino Motor Shield rev3" modelIndex="6010" path="/home/aluno/Downloads/ARDUINO-2019/fritzing-0.9.3b.linux.AMD64/fritzing-parts/core/Arduino_Motor_Shield_rev3.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="PHOTON_fix" modelIndex="6011" path="/home/aluno/Downloads/ARDUINO-2019/fritzing-0.9.3b.linux.AMD64/fritzing-parts/core/PHOTON_fix.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun-PowerIC-TB6621FNG-" modelIndex="6012" path="/home/aluno/Downloads/ARDUINO-2019/fritzing-0.9.3b.linux.AMD64/fritzing-parts/core/sparkfun-poweric-tb6621fng-.fzp" flippedSMD="true">
+            <views/>
+        </instance>
+        <instance moduleIdRef="MPX4250AP_60bfc397c54bae166e67461339be2ca8_4" modelIndex="6014" path="/home/aluno/Downloads/ARDUINO-2019/fritzing-0.9.3b.linux.AMD64/fritzing-parts/core/MPX4250AP pressure sensor.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="1000FADF10011leg" modelIndex="6016" path="/home/aluno/Downloads/ARDUINO-2019/fritzing-0.9.3b.linux.AMD64/fritzing-parts/core/dc_motor.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="045cef49a96039c64e7363608e127209" modelIndex="6017" path="/home/aluno/Downloads/ARDUINO-2019/fritzing-0.9.3b.linux.AMD64/fritzing-parts/core/Dual_VNH2SP30_Motor_Driver.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="d63bf67236bb974ced6c30c1d9f152a9_18" modelIndex="6018" path="/home/aluno/Downloads/ARDUINO-2019/fritzing-0.9.3b.linux.AMD64/fritzing-parts/core/MPX2010 pressure sensor.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="A4950_f96ca75d4706a24394f9603716d558ed_37" modelIndex="6020" path="/home/aluno/Downloads/ARDUINO-2019/fritzing-0.9.3b.linux.AMD64/fritzing-parts/core/A4950_37.fzp" flippedSMD="true">
+            <views/>
+        </instance>
+        <instance moduleIdRef="5cc9de9cdfa593d8e073514cde1c7c77" modelIndex="6022" path="/home/aluno/Downloads/ARDUINO-2019/fritzing-0.9.3b.linux.AMD64/fritzing-parts/core/BASIC_Stamp_2px24.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="a22e371d3e8c77a58fdfe4dd2799c449leg" modelIndex="6024" path="/home/aluno/Downloads/ARDUINO-2019/fritzing-0.9.3b.linux.AMD64/fritzing-parts/core/stepper_motor_unipolar.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="cb9c6041c0b15c9c1a63560527d7693a" modelIndex="6026" path="/home/aluno/Downloads/ARDUINO-2019/fritzing-0.9.3b.linux.AMD64/fritzing-parts/core/Peppermill Power Board.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun-PowerIC-VNH2SP30-" modelIndex="6028" path="/home/aluno/Downloads/ARDUINO-2019/fritzing-0.9.3b.linux.AMD64/fritzing-parts/core/sparkfun-poweric-vnh2sp30-.fzp" flippedSMD="true">
+            <views/>
+        </instance>
+        <instance moduleIdRef="ludusProtoShieldWireless" modelIndex="6030" path="/home/aluno/Downloads/ARDUINO-2019/fritzing-0.9.3b.linux.AMD64/fritzing-parts/core/ludusProtoShieldWireless.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="Rotoshield-1.0a" modelIndex="6031" path="/home/aluno/Downloads/ARDUINO-2019/fritzing-0.9.3b.linux.AMD64/fritzing-parts/core/Rotoshield-1.0a.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SPARKCORE_v1_fix" modelIndex="6032" path="/home/aluno/Downloads/ARDUINO-2019/fritzing-0.9.3b.linux.AMD64/fritzing-parts/core/SPARKCORE_v1_fix.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun_Stepoko" modelIndex="6033" path="/home/aluno/Downloads/ARDUINO-2019/fritzing-0.9.3b.linux.AMD64/fritzing-parts/core/SparkFun_Stepoko.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun-PowerIC-L6470-" modelIndex="6034" path="/home/aluno/Downloads/ARDUINO-2019/fritzing-0.9.3b.linux.AMD64/fritzing-parts/core/sparkfun-poweric-l6470-.fzp" flippedSMD="true">
+            <views/>
+        </instance>
+        <instance moduleIdRef="chipkit_MotorShield" modelIndex="6036" path="/home/aluno/Downloads/ARDUINO-2019/fritzing-0.9.3b.linux.AMD64/fritzing-parts/core/chipkit_MotorShield.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="4d5dcc6408079f54cbda4d35e4d0b8fa" modelIndex="6038" path="/home/aluno/Downloads/ARDUINO-2019/fritzing-0.9.3b.linux.AMD64/fritzing-parts/core/BASIC_Stamp_2p24.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun-Electromechanical-MOTOR-10MM" modelIndex="6040" path="/home/aluno/Downloads/ARDUINO-2019/fritzing-0.9.3b.linux.AMD64/fritzing-parts/core/sparkfun-electromechanical-motor-10mm.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="LilyPad Vibe Motor" modelIndex="6042" path="/home/aluno/Downloads/ARDUINO-2019/fritzing-0.9.3b.linux.AMD64/fritzing-parts/core/Lilypad Vibe Motor.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="RevEd_L293D" modelIndex="6044" path="/home/aluno/Downloads/ARDUINO-2019/fritzing-0.9.3b.linux.AMD64/fritzing-parts/core/L293D.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="5f7b51547fafb902305f5b3cbb81bb74" modelIndex="6046" path="/home/aluno/Downloads/ARDUINO-2019/fritzing-0.9.3b.linux.AMD64/fritzing-parts/core/BASIC_Stamp_2p40.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="Ardumoto v13" modelIndex="6048" path="/home/aluno/Downloads/ARDUINO-2019/fritzing-0.9.3b.linux.AMD64/fritzing-parts/core/Ardumoto v13.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="a4f38a10-dd92-11dd-a3e2-001f5b3a17a4" modelIndex="6049" path="/home/aluno/Downloads/ARDUINO-2019/fritzing-0.9.3b.linux.AMD64/fritzing-parts/core/h-bridge.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="MonsterMoto-Shield-v12" modelIndex="6050" path="/home/aluno/Downloads/ARDUINO-2019/fritzing-0.9.3b.linux.AMD64/fritzing-parts/core/MonsterMoto-Shield-v12.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="f0d627984e1614e5c1c797471f529619" modelIndex="6051" path="/home/aluno/Downloads/ARDUINO-2019/fritzing-0.9.3b.linux.AMD64/fritzing-parts/core/BASIC_Stamp_2pe.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="2d3cbb853835749c51cc0d6e4bfd2c90" modelIndex="6053" path="/home/aluno/Downloads/ARDUINO-2019/fritzing-0.9.3b.linux.AMD64/fritzing-parts/core/BASIC_Stamp_2e.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="pololu0002_a988" modelIndex="6055" path="/home/aluno/Downloads/ARDUINO-2019/fritzing-0.9.3b.linux.AMD64/fritzing-parts/core/pololu0002_a988.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="ludusProtoShield" modelIndex="6057" path="/home/aluno/Downloads/ARDUINO-2019/fritzing-0.9.3b.linux.AMD64/fritzing-parts/core/ludusProtoShield.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="EasyDriver_v44" modelIndex="6058" path="/home/aluno/Downloads/ARDUINO-2019/fritzing-0.9.3b.linux.AMD64/fritzing-parts/core/EasyDriver_v44.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="quadstep-v12" modelIndex="6059" path="/home/aluno/Downloads/ARDUINO-2019/fritzing-0.9.3b.linux.AMD64/fritzing-parts/core/quadstep-v12.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="EDGY_motor_control" modelIndex="6061" path="/home/aluno/Downloads/ARDUINO-2019/fritzing-0.9.3b.linux.AMD64/fritzing-parts/core/EDGY_motor_control.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="Power Screwshield 1.0a" modelIndex="6062" path="/home/aluno/Downloads/ARDUINO-2019/fritzing-0.9.3b.linux.AMD64/fritzing-parts/core/Power Screwshield 1.0a.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="760832bc79fe1f34e99f420ad872a0b8" modelIndex="6063" path="/home/aluno/Downloads/ARDUINO-2019/fritzing-0.9.3b.linux.AMD64/fritzing-parts/core/BASIC_Stamp_2.fzp">
+            <views/>
+        </instance>
+    </instances>
+</module>
